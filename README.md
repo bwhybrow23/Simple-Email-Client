@@ -2,6 +2,7 @@
 A simple email client that works with most SMTP email providers like Gmail or Outlook. 
 Check below for information on how to set up the client. 
 # Config
+Be sure to change **config.json.sample** to **config.json** so it works. 
     {
     "port": "3000", //PORT FOR THE SERVER TO RUN OFF
 	"server": {
