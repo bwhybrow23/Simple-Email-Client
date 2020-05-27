@@ -1,0 +1,14 @@
+{
+    "test": "test response",
+    "port": "3000",
+		"server": {
+				"host": "EMAIL SERVER",
+				"secure": false,
+				"port": 25
+		},
+    "auth": {
+        "user": "EMAIL",
+        "password": "PASSWORD",
+				"name": "NAME"
+    }
+}
