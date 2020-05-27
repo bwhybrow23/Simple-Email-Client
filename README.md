@@ -30,5 +30,5 @@ Make sure that you have SMTP enabled in Gmail otherwise this will not work.
 Check with your email providers or just search on Google your email provider with "SMTP credentials" at the end.
 # Support
 If you need support, I have a public Discord and a Twitter you can contact me on. 
-Discord: https://discord.benwhybrow.com
-Twitter: https://twitter.com/stentorianyt
+- Discord: https://discord.benwhybrow.com
+- Twitter: https://twitter.com/stentorianyt
