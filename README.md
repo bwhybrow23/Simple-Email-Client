@@ -4,15 +4,15 @@ Check below for information on how to set up the client.
 # Config
     {
     "port": "3000", //PORT FOR THE SERVER TO RUN OFF
-		"server": {
-				"host": "EMAIL SERVER", //SMTP SERVER (see below)
-				"secure": false, //SECURE SMTP (as per email)
-				"port": 25 //SMTP PORT (see below)
-		},
-    "auth": {
-        "user": "EMAIL", //YOUR EMAIL
-        "password": "PASSWORD", //YOUR EMAIL PASSWORD
-		"name": "NAME" //THE NAME YOU WANT TO SHOW UP AS A SENDER
+	"server": {
+           "host": "EMAIL SERVER", //SMTP SERVER (see below)
+           "secure": false, //SECURE SMTP (as per email)
+           "port": 25 //SMTP PORT (see below)
+	},
+       "auth": {
+           "user": "EMAIL", //YOUR EMAIL
+           "password": "PASSWORD", //YOUR EMAIL PASSWORD
+           "name": "NAME" //THE NAME YOU WANT TO SHOW UP AS A SENDER
     }
 # SMTP Information
 **Gmail Users**:
