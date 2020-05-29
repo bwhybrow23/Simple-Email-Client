@@ -5,7 +5,7 @@
 <!-- Badges -->
 <p align="center">
     <a href="https://shields.io/" target="_blank">
-        <img src="https://img.shields.io/github/languages/top/bwhybrow23/Template?color=brightgreenn" alt="Main Lang"/>
+        <img src="https://img.shields.io/github/languages/top/bwhybrow23/Simple-Email-Client?color=brightgreenn" alt="Main Lang"/>
     </a>
      <a href="https://github.com/users/bwhybrow23" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-bwhybrow23-blue.svg?logo=github&logoColor=FFF" alt="GitHub"/>
