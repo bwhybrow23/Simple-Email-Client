@@ -21,7 +21,7 @@
 A simple email client that works with most SMTP email providers like Gmail or Outlook. 
 Check below for information on how to set up the client. 
 
-# Configuring the Sender
+## Configuring the Sender
 Be sure to change **config.json.sample** to **config.json** so it works. 
 
     {
@@ -37,7 +37,7 @@ Be sure to change **config.json.sample** to **config.json** so it works.
            "name": "NAME" //THE NAME YOU WANT TO SHOW UP AS A SENDER
     }
 
-# SMTP Information
+## SMTP Information
 **Gmail Users**:
 Make sure that you have SMTP enabled in Gmail otherwise this will not work. 
 -   **Server:**  smtp.gmail.com
