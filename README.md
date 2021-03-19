@@ -3,6 +3,7 @@ A simple email client that works with most SMTP email providers like Gmail or Ou
 Check below for information on how to set up the client. 
 # Config
 Be sure to change **config.json.sample** to **config.json** so it works. 
+```json
     {
     "port": "3000", //PORT FOR THE SERVER TO RUN OFF
 	"server": {
@@ -15,6 +16,7 @@ Be sure to change **config.json.sample** to **config.json** so it works.
            "password": "PASSWORD", //YOUR EMAIL PASSWORD
            "name": "NAME" //THE NAME YOU WANT TO SHOW UP AS A SENDER
     }
+```
 # SMTP Information
 **Gmail Users**:
 Make sure that you have SMTP enabled in Gmail otherwise this will not work. 
