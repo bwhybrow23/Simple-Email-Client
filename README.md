@@ -34,4 +34,4 @@ Check with your email providers or just search on Google your email provider wit
 # Support
 If you need support, I have a public Discord and a Twitter you can contact me on. 
 - Discord: https://discord.benwhybrow.com
-- Twitter: https://twitter.com/stentorianyt
+- Twitter: https://twitter.com/stentoriantv
